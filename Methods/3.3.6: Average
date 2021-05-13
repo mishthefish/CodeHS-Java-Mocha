@@ -1,0 +1,5 @@
+public double average(double a, double b)
+{
+    double total = (a + b)/ 2;
+    return total; 
+}
