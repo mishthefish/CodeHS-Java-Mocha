@@ -1,0 +1,6 @@
+public String yell(String statement)
+{
+    String str = statement.toUpperCase();
+    return str;
+    // System.out.println(str);
+}
